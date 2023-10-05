@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ctrl-aziz
-- 👀 I’m interested in dart and flutter development
-- 🌱 I’m currently learning Python, Asp.net and C#
-- 💞️ I’m looking to collaborate on any project
+- 👋 Hi, I’m Aziz
+- 👀 I’m a Flutter developer
+- 🌱 I’m currently increasing my Flutter development knowledge
+- 💞️ I’m looking to collaborate on any project that helps me to increase my Flutter knowledge
 - 📫 How to reach me: alsmailabdalazez@gmail.com
 
 <!---
