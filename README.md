@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">A passionate Flutter Developer from Syria 🇸🇾</h3>
+<h3 align="center">A passionate Flutter Developer from Syria</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%92%BB;Backend+Explorer+%F0%9F%94%8E;Open+Source+Contributor+%F0%9F%93%9D%EF%B8%8F" alt="Typing SVG" />
