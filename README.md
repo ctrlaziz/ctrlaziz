@@ -33,7 +33,7 @@
 
 ## 🚀 Projects
 
-- **[Otelctrl](https://chamberflow.com)** – A room & booking management system for small property owners *(Flutter + NestJS)*
+- **[Otelctrl](https://otelctrl.com)** – A room & booking management system for small property owners *(Flutter + NestJS)*
 - **[Flutter Packages](https://pub.dev/publishers/ctrlaziz.com)** – Useful libraries for Flutter devs by Flutter devs
 - **More coming soon...**
 
