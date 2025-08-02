@@ -42,12 +42,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctrl-aziz&show_icons=true&theme=radical" alt="ctrl-aziz github stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrl-aziz&theme=radical" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ctrlaziz&show_icons=true&theme=radical" alt="ctrlaziz github stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlaziz&theme=radical" alt="GitHub Streak" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-aziz&layout=compact&theme=radical" alt="Top Langs" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlaziz&layout=compact&theme=radical" alt="Top Langs" width="45%" />
 </p>
 
 ---
